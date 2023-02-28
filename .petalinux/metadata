@@ -1,0 +1,7 @@
+PETALINUX_VER=2022.2
+VALIDATE_HW_CHKSUM=1
+HARDWARE_PATH=/home/gnvaca/work/peta-playground/soc-workflow-peta/hardware/hardware.xsa
+HDF_EXT=xsa
+HARDWARE_CHECKSUM=5a6e72e02cb739efa74198a2da31a90c
+YOCTO_SDK=85e32bd84b2647e640a2e565ef06077a
+RFSCONFIG_CHKSUM=1f7dbe0ba6be51016a9db03483a94db9
